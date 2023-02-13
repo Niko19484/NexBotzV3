@@ -42,9 +42,9 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6288221354110'
-global.nomorown = '628812743180'
-global.nomorown1 = '628812743180'
+global.nomorbot = '6285604607275'
+global.nomorown = '6285604607275'
+global.nomorown1 = '6285604607275'
 global.namebot = 'NexBotz'
 global.nameown = 'NexEp'
 
